@@ -67,7 +67,7 @@ the user is responsible.
 ## STEP 1 👇
 <div align="center">
   
-  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RAFEEEFX/CAT-BOT)
+  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pikachucreator/pikachu-QR)
 
 ## STEP 2 👇
 <div align="center">
